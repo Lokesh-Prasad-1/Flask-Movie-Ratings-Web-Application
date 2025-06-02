@@ -1,4 +1,4 @@
-**Flask Movie Ratings Web Application**
+# Flask Movie Ratings Web Application
 
 Tech Stack: Python, Flask, Flask-WTF, Flask-Bootstrap, SQLAlchemy, REST API (TMDb), Jinja2, SQLite
  
